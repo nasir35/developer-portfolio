@@ -1,0 +1,39 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+}
+section{
+    display: flex;
+}
+.top-section{
+    background: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.w-50{
+    width: 50%;
+    padding: 3%;
+}
+.orange-color{
+    color: orange;
+}
+.btn{
+    padding: 10px 40px;
+    border: none;
+    background: linear-gradient(to right, orange, tomato);
+    border-radius: 5px;
+    color: white;
+    font-size: 1.1rem;
+}
+.heading-1{
+    font-size: 2.2rem;
+}
+.heading-2{
+    font-size: 1.5rem;
+}
+.heading-3{
+    font-size: 1.2rem;
+    margin:40px 0px 2px 0px;
+}
+.img-80{
+    width: 80%;
+}
